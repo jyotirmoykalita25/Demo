@@ -1,6 +1,7 @@
 # Demo
 This is my first Github Repository
 <br>
-Author - Jyotirmoy kalita
+# Author 
+Jyotirmoy kalita
 <br>
 IT
